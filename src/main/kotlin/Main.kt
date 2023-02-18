@@ -1,4 +1,4 @@
-//Needed a random number for to choose the monster.
+//Needed a random number for to choose the monster
 
 import kotlin.random.Random
 

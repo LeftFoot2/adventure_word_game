@@ -14,7 +14,7 @@ it has helped me do that.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+IntelliJ IDE
 
 {Describe the programming language that you used and any libraries.}
 
