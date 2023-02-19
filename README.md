@@ -8,9 +8,8 @@ in this version of the game.) You goal in the game is to beat the dragon StarFir
 I have written this in Kotlin to get me familiar with some of its basic features of the language, so although it is not yet complete
 it has helped me do that.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+[Software Demo Video](https://youtu.be/nI9Y1pnVZnw)
 
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
@@ -31,3 +30,4 @@ GitHub
 - Add coins
 - Add player health
 - Add shopping
+- Implement other classes
