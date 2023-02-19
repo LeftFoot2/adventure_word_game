@@ -15,6 +15,8 @@ it has helped me do that.
 # Development Environment
 
 IntelliJ IDE
+Kotlin
+GitHub
 
 {Describe the programming language that you used and any libraries.}
 
