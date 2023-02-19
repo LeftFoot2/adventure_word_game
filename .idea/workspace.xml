@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbc4b6-551e-47c2-8fac-2ffde63a34a3" name="Changes" comment="Moved ReadMe file." />
+    <list default="true" id="e2cbc4b6-551e-47c2-8fac-2ffde63a34a3" name="Changes" comment="ReadMe change">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676766677884</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ReadMe change">
+      <created>1676767131660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676767131660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -126,6 +135,7 @@
     <MESSAGE value="This is the bare bones of the game." />
     <MESSAGE value="Added a few changes." />
     <MESSAGE value="Moved ReadMe file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved ReadMe file." />
+    <MESSAGE value="ReadMe change" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReadMe change" />
   </component>
 </project>
